@@ -41,6 +41,7 @@ except KeyError:
 
 class Msg:
     source = "\nsource: https://github.com/AbhijithNT/TelegramFiletoCloud"
-    start = "\n<b>This bot uploads telegram files to MixDrop.co,File.io.\nAdmin: @thankappan369</b>"
-    error = "something is went wrong\n{error} \ncontact admin @thankappan369"
-    help = "Usage: <b>Send any file and the bot will upload it to MixDrop.co,File.io</b>"
+    start = "\n<b>This bot uploads telegram files to MixDrop.co,File.io.\n \nSend any file and the bot will upload it to MixDrop.co , File.io .</b>"
+    error = "something is went wrong\n{error} \ncontact admin @M2botzSupport"
+    help = "\n<b> HOW TO USE ME😎 \n \n🔽Send Me Telegram File \n🔽 To I Uploaded Some Other Website /n🔽 Choose Best Website For Upload  .</b>"
+    about = "\n<b> ABOUT ME🌟 \n \n 🤖Name : <a href='https://t.me/M2_Telegram_Cloud_M2Bot'>Telegram File Cloud Bot</a> \n Support Group : <a href='https://t.me/m2botzsupport'>Click Here</a> </b>
